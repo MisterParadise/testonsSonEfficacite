@@ -8,6 +8,7 @@ Changement
 Jeremy
 Le Chat
 Changement
+<<<<<<< HEAD
 Adrien
 Lucie
 Steven
@@ -23,3 +24,6 @@ Changement
 Francis
 Marie
 Benjamin
+=======
+..................................
+>>>>>>> master
