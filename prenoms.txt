@@ -1,4 +1,8 @@
 Ivan
 Jeremy
 Le Chat
+<<<<<<< Updated upstream
 Steven
+=======
+Lucie
+>>>>>>> Stashed changes
