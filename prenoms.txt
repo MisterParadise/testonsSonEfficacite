@@ -69,3 +69,4 @@ Changement
 Francis
 Marie
 >>>>>>> master
+LeChangementC'estMaintenant
