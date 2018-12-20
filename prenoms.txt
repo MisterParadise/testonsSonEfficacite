@@ -1,9 +1,10 @@
 Ivan
-Jeremy
-Le Chat
 <<<<<<< Updated upstream
-Steven
-=======
 Lucie
+=======
+Steven
+Changement
+Le Chat
+Jeremy
 >>>>>>> Stashed changes
 Ophelie
