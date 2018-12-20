@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 <<<<<<<<< Temporary merge branch 1
 =========
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
 
 Ivan
 Adrien
@@ -37,31 +42,16 @@ Jeremy
 Ophelie
 Francis
 Denise
-=========
 Ivan
 Jeremy
 Le Chat
 Changement
 Francis
 Marie
->>>>>>>>> Temporary merge branch 2
-
-
-Denise
-Ivan
-Jeremy
-Le Chat
-Changement
-Francis
-Changement
-Francis
-Denise
-Ivan
-Jeremy
-Le Chat
-Changement
-Francis
-Marie
+<<<<<<< HEAD
 >>>>>>>>> Temporary merge branch 2
 
 LeChangementC'estMaintenant
+=======
+Benjamin
+>>>>>>> master
