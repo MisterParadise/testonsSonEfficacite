@@ -4,3 +4,8 @@ Le Chat
 Steven
 
 Marie
+<<<<<<< Updated upstream
+Steven
+=======
+Lucie
+>>>>>>> Stashed changes
