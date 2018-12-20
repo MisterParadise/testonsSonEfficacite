@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Ivan
 Adrien
+=======
+Ivan
+Jeremy
+>>>>>>> master
