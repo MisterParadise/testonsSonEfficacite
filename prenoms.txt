@@ -24,6 +24,4 @@ Changement
 Francis
 Marie
 Benjamin
-=======
-..................................
->>>>>>> master
+Maxime
