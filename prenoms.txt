@@ -1,5 +1,6 @@
-<<<<<<<<< Temporary merge branch 1
 <<<<<<< HEAD
+=======
+
 Ivan
 Adrien
 =======
@@ -36,7 +37,6 @@ Jeremy
 Ophelie
 Francis
 Denise
-=========
 Ivan
 Jeremy
 Le Chat
