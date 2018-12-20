@@ -1,10 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-Ivan
-Adrien
 =======
+>>>>>>> master
+<<<<<<< HEAD
 Ivan
-Jeremy
 Jeremy
 Le Chat
 Changement
@@ -20,6 +19,7 @@ Changement
 ...............................................................
 .............................................................................
 ......................................................................................................
+<<<<<<< HEAD
 Jeremy
 Le Chat
 Changement
@@ -42,4 +42,11 @@ Jeremy
 Le Chat
 Changement
 Francis
+>>>>>>> master
+=======
+Jeremy
+Le Chat
+Changement
+Francis
+Denise
 >>>>>>> master
