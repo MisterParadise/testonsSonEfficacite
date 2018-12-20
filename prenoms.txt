@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Yohan
-=======
-
-=======
 <<<<<<<<< Temporary merge branch 1
-<<<<<<< HEAD
->>>>>>> master
+=========
+
 Ivan
 Adrien
 =======
@@ -68,5 +62,5 @@ Le Chat
 Changement
 Francis
 Marie
->>>>>>> master
-LeChangementC'estMaintenant
+>>>>>>>>> Temporary merge branch 2
+
