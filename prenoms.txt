@@ -23,5 +23,14 @@ Le Chat
 Changement
 Francis
 Marie
+<<<<<<< HEAD
 Benjamin
 Maxime
+=======
+<<<<<<< HEAD
+>>>>>>>>> Temporary merge branch 2
+
+LeChangementC'estMaintenant
+=======
+Benjamin
+>>>>>>> master
