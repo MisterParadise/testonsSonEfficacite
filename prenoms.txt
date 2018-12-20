@@ -1,9 +1,8 @@
-Ivan
+
 <<<<<<< Updated upstream
 Lucie
 =======
 Steven
-Changement
 Le Chat
 Jeremy
 >>>>>>> Stashed changes
